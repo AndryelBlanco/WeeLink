@@ -25,3 +25,16 @@ D:\Projects\API\WeeLink\WeeLink\WeeLink\obj\Debug\net6.0\refint\WeeLink.dll
 D:\Projects\API\WeeLink\WeeLink\WeeLink\obj\Debug\net6.0\WeeLink.pdb
 D:\Projects\API\WeeLink\WeeLink\WeeLink\obj\Debug\net6.0\WeeLink.genruntimeconfig.cache
 D:\Projects\API\WeeLink\WeeLink\WeeLink\obj\Debug\net6.0\ref\WeeLink.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\DnsClient.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\SharpCompress.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\Snappier.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\ZstdSharp.dll
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Projects\API\WeeLink\WeeLink\WeeLink\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
